@@ -241,7 +241,7 @@ Projects focused on application security, automation, and developer productivity
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/Serried)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/serried/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://serried.dev)
 
 
